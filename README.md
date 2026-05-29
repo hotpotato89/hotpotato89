@@ -1,7 +1,20 @@
 # Рамиль Сабирзянов (11.08.2011)
 
-**Backend-разработчик (начинающий)** · 
-Python, FastAPI, PostgreSQL, Redis, Docker, Docker-Compose, Git, SQLAlchemy 2.0, Alembic, Asyncpg, Neon.tech
+**Backend-разработчик (начинающий)**
+
+---
+
+## 🛠️ Стек технологий
+
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-teal?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7-red?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-28-blue?logo=docker&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-red)
+![Alembic](https://img.shields.io/badge/Alembic-1.13-green)
+![Asyncpg](https://img.shields.io/badge/Asyncpg-0.30-blue)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
