@@ -20,7 +20,7 @@
 
 ## 🌐 Проекты на других платформах
 
-Некоторые проекты размещены на SourceCraft. Переноситься на GitHub не будут.
+Некоторые проекты размещены на SourceCraft.
 
 🔗 [Мои проекты на SourceCraft](https://sourcecraft.dev/hotpotato89)
 
