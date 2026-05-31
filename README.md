@@ -18,14 +18,6 @@
 
 ---
 
-## 🌐 Проекты на других платформах
-
-Некоторые проекты размещены на SourceCraft.
-
-🔗 [Мои проекты на SourceCraft](https://sourcecraft.dev/hotpotato89)
-
----
-
 ## 🚀 Успешные пет-проекты
 
 ### User Center V3
