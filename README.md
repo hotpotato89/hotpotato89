@@ -26,9 +26,10 @@ REST API с JWT авторизацией, кэшем и пагинацией.
 - Сортировка, пагинация, кэширование через Redis
 - Собственный декоратор @cache
 - Юнит-тесты, Ruff
+- Докер (multi-stage)
 - Деплой на Render + Netlify
 
-🔗 [Swagger](https://user-a0r5.onrender.com/docs) | [Фронт](https://user-center-jwt.netlify.app)
+🔗 [Swagger](https://user-a0r5.onrender.com/docs) | [Фронт (*VPN-require*)](https://user-center-jwt.netlify.app)
 
 ---
 
