@@ -14,6 +14,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-1.27-green?logo=nginx)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-red)
 ![Alembic](https://img.shields.io/badge/Alembic-1.14-orange)
+![Pytest](https://img.shields.io/badge/Pytest-7.4-blue?logo=pytest)
 ![JWT](https://img.shields.io/badge/JWT-RS256-blue)
 ![Ruff](https://img.shields.io/badge/code%20style-ruff-purple)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -29,11 +30,28 @@
 
 ---
 
-## 🚀 Проекты
+## 🚀 Лучшие проекты
 
-### 🔹 User Center JWT (эталонный)
+### 🔹 FastAPI Playground (последний и лучший)
 
-REST API с JWT авторизацией, кэшем и пагинацией.
+Production-ready REST API с JWT аутентификацией, refresh токенами, Docker и Nginx.
+
+- FastAPI, PostgreSQL, SQLAlchemy, Alembic
+- JWT access + refresh с RSA подписью
+- Argon2 хэширование паролей
+- Nginx reverse proxy + раздача статики
+- Docker Compose (многоконтейнерная сборка)
+- Чистая архитектура (Service → Repository)
+- Логирование медленных запросов
+- Глобальные exception handlers
+
+🔗 [Репозиторий](https://github.com/hotpotato89/fastapi-playground)
+
+---
+
+### 🔹 User Center JWT
+
+REST API с JWT авторизацией, кэшем и пагинацией. С фронтедном, сгенерированным с ИИ.
 
 - FastAPI, PostgreSQL, Redis, Docker
 - Сортировка, пагинация, кэширование через Redis
@@ -43,6 +61,19 @@ REST API с JWT авторизацией, кэшем и пагинацией.
 - Деплой на Render + Netlify
 
 🔗 [Swagger](https://user-a0r5.onrender.com/docs) | [Фронт (*VPN-require*)](https://user-center-jwt.netlify.app)
+
+---
+
+### 🔹 first-sqlalchemy
+
+Песочница для изучения SQLAlchemy 2.0 (асинхронный режим).
+
+- FastAPI, SQLAlchemy 2.0, Alembic
+- PostgreSQL, Docker Compose
+- Асинхронные миграции
+- Интеграционные тесты (pytest + aiohttp)
+
+🔗 [Репозиторий](https://github.com/hotpotato89/first-sqlalchemy)
 
 ---
 
