@@ -20,6 +20,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Argon2](https://img.shields.io/badge/Argon2-hashing-purple)
+![uv](https://img.shields.io/badge/uv-0.6-blue)
 
 ---
 
