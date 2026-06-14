@@ -64,17 +64,4 @@ REST API с JWT авторизацией, кэшем и пагинацией. С
 
 ---
 
-### 🔹 first-sqlalchemy
-
-Песочница для изучения SQLAlchemy 2.0 (асинхронный режим).
-
-- FastAPI, SQLAlchemy 2.0, Alembic
-- PostgreSQL, Docker Compose
-- Асинхронные миграции
-- Интеграционные тесты (pytest + aiohttp)
-
-🔗 [Репозиторий](https://github.com/hotpotato89/first-sqlalchemy)
-
----
-
 Остальные проекты в закреплённых репозиториях GitHub.
