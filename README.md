@@ -1,4 +1,4 @@
-# Рамиль Сабирзянов (11.08.2011)
+# Рамиль Сабирзянов (11.08.2011) 🚀
 
 **Backend-разработчик (начинающий)**
 
@@ -22,17 +22,31 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Argon2](https://img.shields.io/badge/Argon2-hashing-purple)
 ![uv](https://img.shields.io/badge/uv-0.6-blue)
-
----
-
-📌 **Контекст:** до мая 2026 писал на [SourceCraft](https://sourcecraft.dev/hotpotato89) (~1.5 месяца).  
-Некоторые репозитории перенесены оттуда, отсюда высокая активность на GitHub в июне. Проекты — реальные.
-
----
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF)
+![Deploy](https://img.shields.io/badge/Deploy-Render-46C3C4)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-SlowAPI-purple)
+![TTL](https://img.shields.io/badge/TTL-Supported-blue)
+![MIT](https://img.shields.io/badge/License-MIT-yellow)
+![QR Code](https://img.shields.io/badge/QR%20Code-Generated-brightgreen)
 
 ## 🚀 Лучшие проекты
 
-### 🔹 FastAPI Playground (последний и лучший)
+### 🔹 Short URL (Новый флагман)
+
+Сервис для сокращения ссылок с JWT-аутентификацией на асимметричных ключах, кэшированием и генерацией QR-кодов.
+
+- Чистая архитектура (Service → Repository)
+- JWT access (15 минут) + refresh (7 дней) с **RSA подписью**
+- Изолированное кэширование в Redis (db=0 для кэша и `QR-кодов`, db=1 для `SlowAPI`)
+- Генерация QR-кодов на лету без хранения бинарников в БД
+- Система TTL для автоматического управления временем жизни ссылок
+- Фоновые задачи через `FastAPI BackgroundTasks`
+- Полный цикл тестирования (65+ зеленых тестов на `Pytest`)
+
+🔗 [Репозиторий](https://github.com/hotpotato89/short-url) | [Swagger UI](https://short-url-8bjl.onrender.com/docs) | [Фронтенд](https://short-url-ui-9240.onrender.com)
+
+
+### 🔹 FastAPI Playground
 
 Production-ready REST API с JWT аутентификацией, refresh токенами, Docker и Nginx.
 
