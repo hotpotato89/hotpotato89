@@ -11,6 +11,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-blue?logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-7-red?logo=redis)
 ![Celery](https://img.shields.io/badge/Celery-5.6-brightgreen)
+![Celery Beat](https://img.shields.io/badge/Celery%20Beat-Scheduler-blue)
 ![Docker](https://img.shields.io/badge/Docker-28-blue?logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-1.27-green?logo=nginx)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-red)
