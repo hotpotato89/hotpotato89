@@ -50,6 +50,8 @@
 - Фоновый инкремент кликов через **Celery** (отдельный воркер)
 - Полный цикл тестирования (**70+** зеленых тестов на Pytest)
 
+> Больше информации в **репозиторие**.
+
 🔗 [Репозиторий](https://github.com/hotpotato89/short-url) | [Swagger UI](https://short-url-8bjl.onrender.com/docs) | [Фронтенд](https://short-url-ui-9240.onrender.com)
 
 ---
